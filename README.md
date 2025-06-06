@@ -19,6 +19,7 @@ Kami mengikuti metodologi Agile untuk memastikan kolaborasi yang efektif dan pen
 ## 📫 Hubungi Kami
 Jika Anda ingin berkolaborasi atau memiliki pertanyaan, silakan hubungi kami:
 - Email: info@arsenicprojects.my.id
-- LinkedIn: arsenic.projects
+- Instagram: arsenic.projects
+- Website: arsenicprojects.my.id
 
 Terima kasih telah mengunjungi halaman kami! Mari bergabung dan ciptakan inovasi bersama! 😊
