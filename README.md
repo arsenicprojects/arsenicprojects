@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Selamat Datang di Arsenic Projects
 
-<!--
-**arsenicprojects/arsenicprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tentang Kami
+Kami adalah tim pengembang perangkat lunak yang berkomitmen untuk menciptakan solusi inovatif dan berkualitas tinggi. Dengan pengalaman di berbagai teknologi dan metodologi, kami siap membantu Anda mewujudkan ide-ide menjadi kenyataan.
 
-Here are some ideas to get you started:
+## 🛠️ Teknologi yang Kami Gunakan
+- **Bahasa Pemrograman**: JavaScript, Python, Java
+- **Framework**: React, Node.js, Django
+- **Database**: MongoDB, MySQL
+- **Alat**: Git, Docker, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📅 Proses Kerja
+Kami mengikuti metodologi Agile untuk memastikan kolaborasi yang efektif dan pengiriman yang cepat. Proses kami meliputi:
+- Sprint Planning
+- Daily Standups
+- Code Reviews
+- Retrospectives
+
+## 📫 Hubungi Kami
+Jika Anda ingin berkolaborasi atau memiliki pertanyaan, silakan hubungi kami:
+- Email: info@arsenicprojects.my.id
+- LinkedIn: arsenic.projects
+
+Terima kasih telah mengunjungi halaman kami! Mari bergabung dan ciptakan inovasi bersama! 😊
