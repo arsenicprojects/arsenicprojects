@@ -5,7 +5,7 @@ Kami adalah tim pengembang perangkat lunak yang berkomitmen untuk menciptakan so
 
 ## 🛠️ Teknologi yang Kami Gunakan
 - **Bahasa Pemrograman**: JavaScript, Python, Java
-- **Framework**: React, Node.js, Django
+- **Framework**: Laravel, React, Node.js, Django, Golang
 - **Database**: MongoDB, MySQL
 - **Alat**: Git, Docker, CI/CD
 
